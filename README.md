@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Talles Wendrel
 - 👀 I’m interested in Back-End Development
-- 🌱 I’m currently learning PPO.
+- 🌱 I’m currently learning OOP.
 - 💞️ I try to collaborate in the development as an intern
 - 📫 How to reach me : WP +55 (11) 9 4659-6965 or talleswendrel@gmail.com
